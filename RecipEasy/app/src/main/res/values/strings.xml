@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecipEasy</string>
+    <string name="an_error_occurred">An error occurred</string>
+    <string name="total">Total</string>
+    <string name="favourite">Favourite</string>
+    <string name="search">Search</string>
+    <string name="category">Category:</string>
+    <string name="area">Area:</string>
+    <string name="new_recipe_not_available">New recipe not available</string>
+    <string name="details">Details</string>
+    <string name="instructions">Instructions</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="recipes">Recipes</string>
+    <string name="categories">Categories</string>
+    <string name="about">About</string>
+    <string name="general">General</string>
+    <string name="version">version:</string>
+    <string name="functions">Functions</string>
+    <string name="no_categories_available">No categories available</string>
+    <string name="category_details">Category details</string>
+</resources>
